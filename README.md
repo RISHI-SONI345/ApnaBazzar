@@ -1,10 +1,4 @@
-Of course\! Here is a full README file for your project.
 
-You can copy and paste this directly into a `README.md` file in your project's root directory.
-
------
-
-````markdown
 # ApnaBazar - A Full-Stack E-Commerce Platform 🛍️
 
 ApnaBazar is a feature-rich, full-stack e-commerce application inspired by Amazon. It includes a mobile application for customers built with **Flutter** and a powerful backend with a dedicated admin panel built with **Node.js**, **Express**, and **MongoDB**.
@@ -139,22 +133,7 @@ apna-bazar/
 
 -----
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome\! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/your-username/apna-bazar/issues).
-
------
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
------
-
-## 🙏 Acknowledgments
-
-  * Project inspired by the "Amazon Clone" tutorial by [Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat).
-  * Thanks to the amazing open-source community.
 
 <!-- end list -->
 
